@@ -30,4 +30,4 @@ Install Nginx reverse proxy to make this application available
 `sudo apt install nginx`
 
 
-added webhook configuration 
+
